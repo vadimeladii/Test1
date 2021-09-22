@@ -6,11 +6,5 @@
         ion.lastName = "test";
         ion.age = 20;
 
-
-        p2.firstName = "first_name";
-        p2.lastName = "last_name";
-        p2.age = 20;
-
-        print(p1);
         print(p2);
     }
