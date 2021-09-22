@@ -1,0 +1,16 @@
+    public static void main(String[] args) {
+        Person p1 = new Person();
+        Person p2 = new Person();
+        Person ion = new Person();
+        ion.firstName = "Ion";
+        ion.lastName = "test";
+        ion.age = 20;
+
+
+        p2.firstName = "first_name";
+        p2.lastName = "last_name";
+        p2.age = 20;
+
+        print(p1);
+        print(p2);
+    }

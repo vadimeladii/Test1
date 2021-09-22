@@ -1,0 +1,11 @@
+public class User {
+
+    long idnp = 435435;
+    String numeDeFamilie = "familia";
+    String prenume = "prenumele";
+    int virsta = 19;
+    boolean buget = false;
+    char genul = 'M';
+    String specialitate = "FI";
+}
+
